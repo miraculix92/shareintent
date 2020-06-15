@@ -1,7 +1,6 @@
 name: shareintent
 description: A plugin to get share intents from the system.
 version: 0.0.3
-author:
 homepage:
 
 environment:

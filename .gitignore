@@ -3,5 +3,20 @@
 
 .packages
 .pub/
-
+.idea
+.gradle
+*.apk
+*.ap_
+.dex
+.class
+*.iml
+.navigation
+output.json
+.externalNativeBuild
+Thumbs.db
+/captures
+/local.properties
+obj/
+bin/
+gen/
 build/
